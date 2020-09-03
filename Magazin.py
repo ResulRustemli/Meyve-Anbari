@@ -5,7 +5,7 @@ a = {"Alma":15,
     "Qarpiz":100,
     "Kivi":50}
 mal_qiymeti={"Alma":0.9,
-            "Armut":1.2,
+            "Armut":1.4,
             "Yemis":0.6,
             "Banan":1.5,
             "Qarpiz":0.2,
