@@ -1,10 +1,10 @@
-a = {"Alma":10,
+a = {"Alma":15,
     "Armut":5,
     "Yemis":4,
     "Banan":50,
     "Qarpiz":100,
     "Kivi":50}
-mal_qiymeti={"Alma":0.65,
+mal_qiymeti={"Alma":0.,
             "Armut":1.2,
             "Yemis":0.6,
             "Banan":1.5,
